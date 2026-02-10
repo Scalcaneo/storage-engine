@@ -1,1 +1,1 @@
-# Bitcask KV Store
+# Basic storage engine - Bitcask KV Store
